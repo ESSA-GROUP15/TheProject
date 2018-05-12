@@ -1,0 +1,17 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

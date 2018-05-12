@@ -1,0 +1,32 @@
+﻿@model VideoStore.WebClient.ViewModels.CatalogueViewModel
+
+@{
+    ViewBag.Title = "ListMedia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List Media</h2>
+
+<table>
+    <tr>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>
+                @item.Title |
+                Price: $@item.Price |
+                Quantity: @item.StockCount
+
+                @using(Html.BeginForm("AddToCart", "Cart")) { 
+                    @Html.Hidden("pMediaId", item.Id) 
+                    @Html.Hidden("pReturnUrl", ViewContext.HttpContext.Request.Url.PathAndQuery)
+                    <input type="submit" value="+ Add to Cart" />
+                } 
+            </td>
+        </tr>
+    }
+
+</table>
+

@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.pdb

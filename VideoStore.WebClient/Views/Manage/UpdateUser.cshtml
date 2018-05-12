@@ -1,0 +1,37 @@
+﻿@model VideoStore.WebClient.ViewModels.EditUserDetailsViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+
+@using (Html.BeginForm("UpdateUser", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    <div>
+        <h4>Change your account settings</h4>
+        <hr />
+        <dl class="dl-horizontal">
+
+            <dt>Email:</dt>
+            <dd>
+                @Html.TextBoxFor(m => m.Email)
+                @Html.ValidationMessageFor(m => m.Email)
+            </dd>
+            <br />
+            <dt>Address:</dt>
+            <dd>
+                @Html.TextBoxFor(m => m.Address)
+                @Html.ValidationMessageFor(m => m.Address)
+            </dd>
+
+
+        </dl>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Update" class="btn btn-default" />
+        </div>
+    </div>
+}

@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\GroupProject\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb

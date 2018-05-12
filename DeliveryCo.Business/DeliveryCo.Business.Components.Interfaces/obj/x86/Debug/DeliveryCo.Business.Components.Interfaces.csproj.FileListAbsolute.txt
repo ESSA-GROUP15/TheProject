@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

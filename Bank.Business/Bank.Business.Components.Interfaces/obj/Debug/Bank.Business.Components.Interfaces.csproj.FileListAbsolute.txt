@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csprojResolveAssemblyReference.cache

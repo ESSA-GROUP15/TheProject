@@ -1,0 +1,173 @@
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\VideoStore.Process\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Process.exe
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.WebClient.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Common.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\AutoMapper.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.Optimization.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.Mvc.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Owin.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.Razor.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.WebPages.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Components.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.Services.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.WebClient.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\VideoStore.WebClient.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Common.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\AutoMapper.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\AutoMapper.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.Optimization.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.Mvc.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.Razor.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.WebPages.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
+C:\Users\David\Desktop\GroupProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb

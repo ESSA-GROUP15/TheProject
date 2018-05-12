@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.exe
+C:\Users\Matt\Desktop\PracTaskB\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

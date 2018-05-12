@@ -1,0 +1,235 @@
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\VideoStore\VideoStore\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week1\VideoStore\VideoStore\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week3\VideoStore\VideoStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\VideoStoreWithRoles(1)\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\Matt\Desktop\VideoStoreWithRolesS12012(2)\VideoStoreWithRolesS12012\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\AutoMapper.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\Common.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\AutoMapper.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\AutoMapper.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\bin\Debug\Common.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.Services\obj\Debug\VideoStore.Services.pdb

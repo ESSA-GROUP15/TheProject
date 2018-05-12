@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb

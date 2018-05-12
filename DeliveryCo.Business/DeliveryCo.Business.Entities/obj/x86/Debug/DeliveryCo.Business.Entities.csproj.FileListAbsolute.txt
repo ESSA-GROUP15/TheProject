@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Entities\obj\x86\Debug\DeliveryCo.Business.Entities.pdb

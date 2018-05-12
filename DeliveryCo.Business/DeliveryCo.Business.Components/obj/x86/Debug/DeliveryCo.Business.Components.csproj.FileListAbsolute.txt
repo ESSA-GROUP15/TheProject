@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components\obj\x86\Debug\DeliveryCo.Business.Components.pdb

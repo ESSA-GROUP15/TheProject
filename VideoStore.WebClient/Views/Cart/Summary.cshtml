@@ -1,0 +1,21 @@
+﻿@model VideoStore.WebClient.ClientModels.Cart
+
+@{
+    Layout = null;
+    Styles.Render("~/Content/css");
+    Scripts.Render("~/bundles/modernizr");
+}
+
+@if (Model.OrderItems.Count > 0)
+{
+    <div class="navbar-text" >
+        <i>           
+                [ Your Cart:
+                @Model.OrderItems.Sum(x => x.Quantity) item(s),
+                @Model.ComputeTotalValue().ToString("c")
+                @Html.ActionLink("Check out", "Index", "Cart", new { returnUrl = Request.Url.PathAndQuery }, new { @class = "nav-bar text nav-bar link" }) 
+                ]
+            
+        </i>
+    </div>
+} 

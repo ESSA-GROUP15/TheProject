@@ -1,0 +1,368 @@
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Common.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Owin.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Common.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Common.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Owin.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Common.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Common.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Owin.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Common.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\msla2391\Desktop\VS_4_5_2013\VideoStoreWithRolesS12015wWebAPI\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Common.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Owin.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Common.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\msla2391\Desktop\VideoStoreS12015TestedLabs(4)(1)\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Common.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Owin.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Common.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\MATT_Mac\Desktop\comp5348_s12015\prac task a\VideoStoreS12015TestedLabs\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.WebClient.dll.config
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.WebClient.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.WebClient.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Common.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\EntityFramework.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Owin.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Helpers.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Mvc.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Optimization.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Razor.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\WebGrease.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Common.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\VideoStore.Services.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Helpers.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Mvc.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Optimization.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.Razor.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\EntityFramework.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.dll
+C:\Users\David\Desktop\GroupProject\VideoStore.WebClient\obj\Debug\VideoStore.WebClient.pdb

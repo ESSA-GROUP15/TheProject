@@ -1,0 +1,12 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
