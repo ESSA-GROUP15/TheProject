@@ -21,6 +21,10 @@ namespace VideoStore.Services
         {
             Provider.NotifyDeliveryCompletion(pDeliveryId, GetDeliveryStatusFromDeliveryInfoStatus(status));
         }
+        public void NotifyDeliveryProcessed(string pOrderNnmber, Guid pDeliveryId, DeliveryInfoStatus Pstatus, String errorMsg)
+        {
+            Provider.NotifyDeliveryProcessed(pOrderNnmber, pDeliveryId, GetDeliveryStatusFromDeliveryInfoStatus(Pstatus), errorMsg);
+        }
 
         private DeliveryStatus GetDeliveryStatusFromDeliveryInfoStatus(DeliveryInfoStatus status)
         {

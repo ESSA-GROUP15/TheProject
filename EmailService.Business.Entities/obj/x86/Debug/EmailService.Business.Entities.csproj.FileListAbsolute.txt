@@ -9,3 +9,7 @@ C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug
 C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csproj.CoreCompileInputs.cache
 C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
 C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+E:\5348group\TheProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll
+E:\5348group\TheProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+E:\5348group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
+E:\5348group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

@@ -4,3 +4,7 @@ C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Inter
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb

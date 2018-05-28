@@ -23,3 +23,14 @@ C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\D
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+E:\5348group\TheProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb

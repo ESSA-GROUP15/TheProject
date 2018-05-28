@@ -8,3 +8,10 @@ C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Comp
 C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+E:\5348group\TheProject\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

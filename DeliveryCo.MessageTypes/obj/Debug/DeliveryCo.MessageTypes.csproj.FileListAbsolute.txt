@@ -3,3 +3,8 @@ C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo
 C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CoreCompileInputs.cache
 C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
 C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+E:\5348group\TheProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\5348group\TheProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\5348group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+E:\5348group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb

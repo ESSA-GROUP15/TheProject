@@ -10,5 +10,6 @@ namespace VideoStore.Business.Components.Interfaces
     {
 
         void NotifyDeliveryCompletion(Guid pDeliveryId, DeliveryStatus status);
+        void NotifyDeliveryProcessed(String orderNnmber, Guid pDeliveryId, DeliveryStatus status, String errorMsg);
     }
 }

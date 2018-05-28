@@ -10,3 +10,12 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components.Interfaces\ob
 C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\bin\Debug\Common.dll
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\5348group\TheProject\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb

@@ -54,3 +54,12 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\V
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.pdb
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\bin\Debug\VideoStore.Services.MessageTypes.dll
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\bin\Debug\VideoStore.Services.MessageTypes.pdb
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\bin\Debug\Common.dll
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\bin\Debug\Common.pdb
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.dll
+E:\5348group\TheProject\VideoStore.Services.MessageTypes\obj\Debug\VideoStore.Services.MessageTypes.pdb

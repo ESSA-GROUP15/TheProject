@@ -22,3 +22,13 @@ C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.S
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+E:\5348group\TheProject\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

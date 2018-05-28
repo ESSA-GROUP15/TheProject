@@ -40,3 +40,11 @@ C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Enti
 C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
 C:\Users\David\Desktop\GroupProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+E:\5348group\TheProject\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll

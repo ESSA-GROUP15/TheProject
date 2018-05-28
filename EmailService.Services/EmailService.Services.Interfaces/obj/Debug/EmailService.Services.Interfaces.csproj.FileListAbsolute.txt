@@ -9,3 +9,12 @@ C:\Users\David\Desktop\GroupProject\EmailService.Services\EmailService.Services.
 C:\Users\David\Desktop\GroupProject\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.pdb
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Services.Interfaces.dll
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Services.Interfaces.pdb
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.dll
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.MessageTypes.dll
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.Business.Entities.pdb
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\bin\Debug\EmailService.MessageTypes.pdb
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.dll
+E:\5348group\TheProject\EmailService.Services\EmailService.Services.Interfaces\obj\Debug\EmailService.Services.Interfaces.pdb

@@ -8,6 +8,8 @@ using System.Transactions;
 using Microsoft.Practices.ServiceLocation;
 using DeliveryCo.MessageTypes;
 
+using System.Threading;
+
 namespace VideoStore.Business.Components
 {
     public class OrderProvider : IOrderProvider
@@ -99,17 +101,19 @@ namespace VideoStore.Business.Components
 
         private void PlaceDeliveryForOrder(Order pOrder)
         {
+            Guid identifier = Guid.NewGuid();
             Delivery lDelivery = new Delivery() { DeliveryStatus = DeliveryStatus.Submitted, SourceAddress = "Video Store Address", DestinationAddress = pOrder.Customer.Address, Order = pOrder };
 
-            Guid lDeliveryIdentifier = ExternalServiceFactory.Instance.DeliveryService.SubmitDelivery(new DeliveryInfo()
-            { 
-                OrderNumber = lDelivery.Order.OrderNumber.ToString(),  
+            //Guid lDeliveryIdentifier = 
+            ExternalServiceFactory.Instance.DeliveryService.SubmitDelivery(new DeliveryInfo()
+            {
+                OrderNumber = lDelivery.Order.OrderNumber.ToString(),
                 SourceAddress = lDelivery.SourceAddress,
                 DestinationAddress = lDelivery.DestinationAddress,
                 DeliveryNotificationAddress = "net.tcp://localhost:9010/DeliveryNotificationService"
             });
 
-            lDelivery.ExternalDeliveryIdentifier = lDeliveryIdentifier;
+            lDelivery.ExternalDeliveryIdentifier = identifier;
             pOrder.Delivery = lDelivery;
             
         }

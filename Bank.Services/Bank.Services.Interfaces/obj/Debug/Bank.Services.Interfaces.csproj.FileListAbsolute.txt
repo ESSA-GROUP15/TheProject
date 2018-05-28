@@ -15,3 +15,10 @@ C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\D
 C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.dll
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Services.Interfaces.pdb
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.dll
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\bin\Debug\Bank.Business.Entities.pdb
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.dll
+E:\5348group\TheProject\Bank.Services\Bank.Services.Interfaces\obj\Debug\Bank.Services.Interfaces.pdb

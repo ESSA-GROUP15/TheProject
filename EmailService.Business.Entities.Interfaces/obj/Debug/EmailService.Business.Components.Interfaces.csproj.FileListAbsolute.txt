@@ -7,3 +7,10 @@ C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities.Interfaces\ob
 C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csproj.CopyComplete
 C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.dll
 C:\Users\David\Desktop\GroupProject\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Components.Interfaces.dll
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.dll
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\bin\Debug\EmailService.Business.Entities.pdb
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.dll
+E:\5348group\TheProject\EmailService.Business.Entities.Interfaces\obj\Debug\EmailService.Business.Components.Interfaces.pdb
