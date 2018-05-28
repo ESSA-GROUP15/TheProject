@@ -1,4 +1,5 @@
-﻿using Common.Model;
+﻿using Common;
+using Common.Model;
 using EmailService.Business.Components.Interfaces;
 using Microsoft.Practices.ServiceLocation;
 using System;

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VideoStore.Application", "VideoStore.Application", "{FC0CADD9-162D-4370-A0D0-B31FA3479D2F}"
 EndProject
@@ -52,6 +52,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeliveryCo.Application", "DeliveryCo.Application", "{3EFE1A29-2A8C-45EA-8C87-9A815BC58792}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmailService.Services", "EmailService.Services", "{1F665E11-0A93-41DE-A33D-26BF2CFC154B}"
+	ProjectSection(SolutionItems) = preProject
+		Bank.Business\Bank.Services\SubscriberService.cs = Bank.Business\Bank.Services\SubscriberService.cs
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Business.Entities", "Bank.Business\Bank.Business.Entities\Bank.Business.Entities.csproj", "{4BB64DAE-6F81-4E3D-A2BD-41075F28F15F}"
 EndProject
@@ -98,6 +101,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailService.Business.Components.Interfaces", "EmailService.Business.Entities.Interfaces\EmailService.Business.Components.Interfaces.csproj", "{2AF87E55-5C90-4454-AA47-BF8B14CBD874}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCo.MessageTypes", "DeliveryCo.MessageTypes\DeliveryCo.MessageTypes.csproj", "{441C1B38-48E4-4888-898F-CB5A9517B7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStoreMessageBus", "VideoStoreMessageBus\VideoStoreMessageBus.csproj", "{654AAE23-6C8B-4DF4-B518-C2046F408B5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +404,18 @@ Global
 		{441C1B38-48E4-4888-898F-CB5A9517B7A9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{441C1B38-48E4-4888-898F-CB5A9517B7A9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{441C1B38-48E4-4888-898F-CB5A9517B7A9}.Release|x86.ActiveCfg = Release|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Debug|x86.Build.0 = Debug|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Release|x86.ActiveCfg = Release|Any CPU
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -451,5 +468,9 @@ Global
 		{74ABB0D9-288F-44EA-AD9A-B07B4F108C8B} = {03DD5CD7-C0D4-4C73-9262-D031C4931B6A}
 		{2AF87E55-5C90-4454-AA47-BF8B14CBD874} = {03DD5CD7-C0D4-4C73-9262-D031C4931B6A}
 		{441C1B38-48E4-4888-898F-CB5A9517B7A9} = {D79B978A-FC5B-434C-84B3-398D8DE224B4}
+		{654AAE23-6C8B-4DF4-B518-C2046F408B5A} = {877EF230-9974-403D-BAE6-E1B09774A7A6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7DC540-7929-4FB0-B6E5-464256975D53}
 	EndGlobalSection
 EndGlobal

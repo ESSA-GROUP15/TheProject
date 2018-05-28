@@ -62,8 +62,13 @@
     <Compile Include="MessageTypeConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServiceFactory.cs" />
+    <Compile Include="SubscriberService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.csproj">
+      <Project>{c2d987a4-ad05-4c0b-b285-5b64b0132df9}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\EmailService.Business.Entities.Interfaces\EmailService.Business.Components.Interfaces.csproj">
       <Project>{2af87e55-5c90-4454-aa47-bf8b14cbd874}</Project>
       <Name>EmailService.Business.Components.Interfaces</Name>

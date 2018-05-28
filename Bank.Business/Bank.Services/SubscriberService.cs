@@ -1,4 +1,5 @@
 ﻿using Bank.Business.Components.Interfaces;
+using Common;
 using Common.Model;
 using Microsoft.Practices.ServiceLocation;
 using System;
