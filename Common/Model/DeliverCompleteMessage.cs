@@ -1,11 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace Common.Model
 {
-    class DeliverCompleteMessage:Message
+    [DataContract]
+    public class DeliverCompleteMessage:Message
     {
+        [DataMember]
+        Guid pDeliveryId;
+
+        [DataMember]
+        int status;
     }
 }

@@ -7,15 +7,20 @@ using System.Text;
 namespace Common.Model
 {
     [DataContract]
-    public class SendEmailMessage:Message
+    public class DeliverProcessedMessage:Message
     {
         [DataMember]
-        public string Message;
+        string orderNnmber;
 
         [DataMember]
-        public string ToAddresses;
+        Guid pDeliveryId;
 
         [DataMember]
-        public DateTime Date;
+        int status;
+
+        [DataMember]
+        String errorMsg;
+
+
     }
 }
