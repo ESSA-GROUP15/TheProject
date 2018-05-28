@@ -338,3 +338,23 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
+
+Bank\.Application/Bank\.Process/obj/
+
+Common/obj/
+
+DeliveryCo\.Application/DeliveryCo\.Process/obj/
+
+EmailService\.Application/EmailService\.Process/obj/
+
+EmailService\.Business\.Entities/obj/
+
+EmailService\.MessageTypes/obj/
+
+Bank\.Business/Bank\.Business\.Components/obj/Debug/
+
+DeliveryCo\.Services/DeliveryCo\.Services/obj/Debug/
+
+Bank\.Business/Bank\.Services/obj/Debug/
+
+VideoStore\.Services/obj/Debug/
