@@ -8,11 +8,13 @@ namespace Common.Model
 {
 
     [DataContract]
-    [KnownType(typeof(SendEmailMessage))]
-    [KnownType(typeof(TransferMessage))]
-    [KnownType(typeof(TransferResultMessage))]
-    [KnownType(typeof(SubmitDeliveryMessage))]
-    [KnownType(typeof(DeliverCompleteMessage))]  
+    [KnownType(typeof(SendEmailMessage))]//VideoStore send email
+    [KnownType(typeof(TransferMessage))]//VideoStore request tranfer
+    [KnownType(typeof(TransferResultMessage))]//Bank send transfer result to VideoStore
+    [KnownType(typeof(SubmitDeliveryMessage))]//VideoStore submit delivery order to DeliveryCo
+    [KnownType(typeof(DeliverProcessedMessage))]//DeliveryCo call VideoStore to email "deliver submitted"
+    [KnownType(typeof(DeliverCompleteMessage))]//DeliveryCo call VideoStore to email "deliver complete"
+
     public abstract class Message : IVisitable
     {
         [DataMember]
