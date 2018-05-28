@@ -46,6 +46,7 @@
     <Compile Include="Cryptography.cs" />
     <Compile Include="IVisitable.cs" />
     <Compile Include="IVisitor.cs" />
+    <Compile Include="Model\DeliverProcessedMessage.cs" />
     <Compile Include="Model\DeliverCompleteMessage.cs" />
     <Compile Include="ISubscriberService.cs" />
     <Compile Include="Model\Message.cs" />
@@ -55,6 +56,7 @@
     <Compile Include="Model\TransferResultMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReflectionUtil.cs" />
+    <Compile Include="SubscriberServiceHost.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

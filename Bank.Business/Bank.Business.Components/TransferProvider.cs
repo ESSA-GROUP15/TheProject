@@ -31,10 +31,14 @@ namespace Bank.Business.Components
                     lContainer.ObjectStateManager.ChangeObjectState(lToAcct, System.Data.EntityState.Modified);
                     lContainer.SaveChanges();
                     lScope.Complete();
-  
+                    
+                    //TODO
+                    //return message
                 }
                 catch (Exception lException)
                 {
+                    //TODO 
+                    //return message
                     Console.WriteLine("Error occured while transferring money:  " + lException.Message);
                     throw;
 
