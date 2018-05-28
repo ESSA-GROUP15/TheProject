@@ -239,7 +239,6 @@ E:\5348group\TheProject\VideoStore.Process\bin\Debug\System.Web.WebPages.Deploym
 E:\5348group\TheProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.csprojResolveAssemblyReference.cache
 E:\5348group\TheProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
 E:\5348group\TheProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
-E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\bin\Debug\AutoMapper.Net4.dll
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\bin\Debug\VideoStore.Process.exe.config
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\bin\Debug\VideoStore.Process.exe
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\bin\Debug\VideoStore.Process.pdb
@@ -313,3 +312,4 @@ E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Archi
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.csproj.CopyComplete
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.exe
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\obj\x86\Debug\VideoStore.Process.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Process\bin\Debug\AutoMapper.Net4.dll

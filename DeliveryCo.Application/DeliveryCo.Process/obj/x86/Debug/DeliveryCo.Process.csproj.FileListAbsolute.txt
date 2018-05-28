@@ -108,3 +108,5 @@ E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Archi
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.csproj.CopyComplete
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.exe
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\obj\x86\Debug\DeliveryCo.Process.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Common.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Common.pdb

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/Common.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Common.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="Message">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Topic" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Message" nillable="true" type="tns:Message" />
+  <xs:complexType name="SendEmailMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Message">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Date" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ToAddresses" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SendEmailMessage" nillable="true" type="tns:SendEmailMessage" />
+  <xs:complexType name="TransferMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Message">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="pAmount" type="xs:double" />
+          <xs:element minOccurs="0" name="pFromAcctNumber" type="xs:int" />
+          <xs:element minOccurs="0" name="pToAcctNumber" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TransferMessage" nillable="true" type="tns:TransferMessage" />
+  <xs:complexType name="TransferResultMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Message">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Success" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TransferResultMessage" nillable="true" type="tns:TransferResultMessage" />
+  <xs:complexType name="SubmitDeliveryMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Message">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DeliveryNotificationAddress" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DestinationAddress" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OrderNumber" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SourceAddress" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SubmitDeliveryMessage" nillable="true" type="tns:SubmitDeliveryMessage" />
+  <xs:complexType name="DeliverProcessedMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Message">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="errorMsg" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="orderNumber" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="pDeliveryId" type="ser:guid" />
+          <xs:element minOccurs="0" name="status" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="DeliverProcessedMessage" nillable="true" type="tns:DeliverProcessedMessage" />
+  <xs:complexType name="DeliverCompleteMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Message">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="pDeliveryId" type="ser:guid" />
+          <xs:element minOccurs="0" name="status" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="DeliverCompleteMessage" nillable="true" type="tns:DeliverCompleteMessage" />
+</xs:schema>

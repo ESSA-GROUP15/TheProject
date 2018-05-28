@@ -176,9 +176,9 @@ namespace VideoStore.Process
 
 
 
-        private const String cAddress = "net.msmq://localhost/private/EmailServiceQueueTransacted";
-        private const String cMexAddress = "net.tcp://localhost:9028/EmailServiceQueueTransacted/mex";
-        private const String queue_dir = ".\\private$\\EmailServiceQueueTransacted";
+        private const String cAddress = "net.msmq://localhost/private/VideoStoreServiceQueueTransacted";
+        private const String cMexAddress = "net.tcp://localhost:9028/VideoStoreServiceQueueTransacted/mex";
+        private const String queue_dir = ".\\private$\\VideoStoreServiceQueueTransacted";
 
         private static void HostServices()
         {

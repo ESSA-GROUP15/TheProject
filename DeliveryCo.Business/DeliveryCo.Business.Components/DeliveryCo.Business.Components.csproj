@@ -43,6 +43,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Xml.Linq" />
@@ -52,6 +53,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connected Services\PublisherService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="DeliveryNotificationServiceFactory.cs" />
     <Compile Include="DeliveryProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -69,6 +75,37 @@
       <Project>{378B43F5-B7BC-471A-87A9-B1656A6B1531}</Project>
       <Name>DeliveryCo.Business.Entities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Connected Services\PublisherService\Common.Model.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\PublisherService\service.wsdl" />
+    <None Include="Connected Services\PublisherService\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\PublisherService\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\PublisherService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\PublisherService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\PublisherService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\PublisherService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
