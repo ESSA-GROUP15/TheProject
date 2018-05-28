@@ -10,9 +10,9 @@ namespace Common.Model
     public class DeliverCompleteMessage:Message
     {
         [DataMember]
-        Guid pDeliveryId;
+        public Guid pDeliveryId;
 
         [DataMember]
-        int status;
+        public int status;
     }
 }

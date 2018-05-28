@@ -10,20 +10,31 @@ using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
 using System.Messaging;
+using Common;
+
 namespace DeliveryCo.Process
 {
     class Program
     {
+        private const String cAddress = "net.msmq://localhost/private/DeliveryQueueTransacted";
+        private const String cMexAddress = "net.tcp://localhost:9030/DeliveryQueueTransacted/mex";
+        private const String queue_dir = ".\\private$\\DeliveryQueueTransacted";
+
         static void Main(string[] args)
         {
             ResolveDependencies();
-            using (ServiceHost lHost = new ServiceHost(typeof(DeliveryService)))
+            //using (ServiceHost lHost = new ServiceHost(typeof(DeliveryService)))
+            //{
+            //    lHost.Open();
+            //    Console.WriteLine("Delivery Service started. Press Q to quit");
+            //    while (Console.ReadKey().Key != ConsoleKey.Q) ;
+            //}
+            using (SubscriberServiceHost lHost = new SubscriberServiceHost(typeof(SubscriberService), cAddress, cMexAddress, true, queue_dir))
             {
-                lHost.Open();
                 Console.WriteLine("Delivery Service started. Press Q to quit");
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
+                lHost.Dispose();
             }
-
         }
 
         private static void ResolveDependencies()

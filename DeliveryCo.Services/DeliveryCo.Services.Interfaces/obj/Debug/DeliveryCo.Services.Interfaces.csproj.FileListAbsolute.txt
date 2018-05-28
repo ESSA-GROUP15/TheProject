@@ -14,3 +14,12 @@ E:\5348group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\D
 E:\5348group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csprojResolveAssemblyReference.cache
 E:\5348group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
 E:\5348group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csproj.CoreCompileInputs.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csproj.CopyComplete
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb

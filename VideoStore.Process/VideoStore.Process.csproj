@@ -88,6 +88,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{C2D987A4-AD05-4C0B-B285-5B64B0132DF9}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\VideoStore.Business.Components.Interfaces\VideoStore.Business.Components.Interfaces.csproj">
       <Project>{2851CEF3-00F9-4AFB-9306-0D6E0BDD45E3}</Project>
       <Name>VideoStore.Business.Components.Interfaces</Name>

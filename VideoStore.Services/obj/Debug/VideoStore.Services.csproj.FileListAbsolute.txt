@@ -261,3 +261,34 @@ E:\5348group\TheProject\VideoStore.Services\bin\Debug\Common.pdb
 E:\5348group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
 E:\5348group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.dll
 E:\5348group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\AutoMapper.Net4.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.dll.config
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\AutoMapper.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\Common.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Business.Entities.dll.config
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\VideoStore.Services.MessageTypes.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\AutoMapper.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\AutoMapper.xml
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\AutoMapper.Net4.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\bin\Debug\Common.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.csprojResolveAssemblyReference.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.csproj.CoreCompileInputs.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.csproj.CopyComplete
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services\obj\Debug\VideoStore.Services.pdb

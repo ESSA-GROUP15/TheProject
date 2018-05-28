@@ -117,3 +117,14 @@ E:\5348group\TheProject\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNe
 E:\5348group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csprojResolveAssemblyReference.cache
 E:\5348group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
 E:\5348group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.MessageTypes.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.MessageTypes.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csprojResolveAssemblyReference.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csproj.CoreCompileInputs.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csproj.CopyComplete
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb

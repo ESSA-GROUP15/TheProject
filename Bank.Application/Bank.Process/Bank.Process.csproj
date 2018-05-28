@@ -98,6 +98,10 @@
       <Project>{3317F30A-A62C-474D-8D2B-B91605ECF202}</Project>
       <Name>Bank.Services.Interfaces</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Common\Common.csproj">
+      <Project>{c2d987a4-ad05-4c0b-b285-5b64b0132df9}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

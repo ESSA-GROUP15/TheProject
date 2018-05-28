@@ -13,3 +13,9 @@ E:\5348group\TheProject\EmailService.Business.Entities\bin\Debug\EmailService.Bu
 E:\5348group\TheProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
 E:\5348group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
 E:\5348group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csprojResolveAssemblyReference.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csproj.CoreCompileInputs.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb

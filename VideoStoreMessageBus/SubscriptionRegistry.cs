@@ -38,6 +38,16 @@ namespace VideoStoreMessageBus
                     sTopicSubscriptions = (Dictionary<String, List<String>>)formatter.Deserialize(stream);
                 }
             }
+            else
+            {
+                AddSubscription("Email", "net.msmq://localhost/private/EmailServiceQueueTransacted");// Email's subscription
+                AddSubscription("Bank", "net.msmq://localhost/private/BankTransferQueueTransacted");//Bank's subscription
+                AddSubscription("DeliveryCo", "net.msmq://localhost/private/DeliveryQueueTransacted");//DeliveryCo
+                AddSubscription("VideoStore.TransferResult","");//VideoStore
+                AddSubscription("VideoStore.DeliveryProcessed", "");
+                AddSubscription("VideoStore.DeliveryCompleted", "");
+            }
+
         }
 
         public void AddSubscription(String pTopic, String pHandlerAddress)

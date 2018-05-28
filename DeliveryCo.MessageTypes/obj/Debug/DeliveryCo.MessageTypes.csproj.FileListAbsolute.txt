@@ -8,3 +8,8 @@ E:\5348group\TheProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageType
 E:\5348group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojResolveAssemblyReference.cache
 E:\5348group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
 E:\5348group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CoreCompileInputs.cache
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb

@@ -75,6 +75,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.csproj">
+      <Project>{C2D987A4-AD05-4C0B-B285-5B64B0132DF9}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\EmailService.Business.Components\EmailService.Business.Components.csproj">
       <Project>{74abb0d9-288f-44ea-ad9a-b07b4f108c8b}</Project>
       <Name>EmailService.Business.Components</Name>

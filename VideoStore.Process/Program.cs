@@ -17,6 +17,7 @@ using System.Transactions;
 using System.ServiceModel.Description;
 using VideoStore.Business.Components.Interfaces;
 using VideoStore.WebClient.CustomAuth;
+using Common;
 
 namespace VideoStore.Process
 {
@@ -173,9 +174,16 @@ namespace VideoStore.Process
         }
 
 
+
+
+        private const String cAddress = "net.msmq://localhost/private/EmailServiceQueueTransacted";
+        private const String cMexAddress = "net.tcp://localhost:9028/EmailServiceQueueTransacted/mex";
+        private const String queue_dir = ".\\private$\\EmailServiceQueueTransacted";
+
         private static void HostServices()
         {
             List<ServiceHost> lHosts = new List<ServiceHost>();
+            SubscriberServiceHost sHost = new SubscriberServiceHost(typeof(SubscriberService), cAddress, cMexAddress, true, queue_dir);
             try
             {
 
@@ -194,6 +202,7 @@ namespace VideoStore.Process
             }
             finally
             {
+                sHost.Dispose();
                 foreach (ServiceHost lHost in lHosts)
                 {
                     lHost.Close();

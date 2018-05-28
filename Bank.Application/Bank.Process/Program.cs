@@ -11,11 +11,16 @@ using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
+using Common;
 
 namespace Bank.Process
 {
     class Program
     {
+        private const String cAddress = "net.msmq://localhost/private/BankTransferQueueTransacted";
+        private const String cMexAddress = "net.tcp://localhost:9029/BankTransferQueueTransacted/mex";
+        private const String queue_dir = ".\\private$\\BankTransferQueueTransacted";
+
         static void Main(string[] args)
         {
             ResolveDependencies();
@@ -26,11 +31,17 @@ namespace Bank.Process
 
         private static void HostServices()
         {
-            using (ServiceHost lHost = new ServiceHost(typeof(TransferService)))
+            //using (ServiceHost lHost = new ServiceHost(typeof(TransferService)))
+            //{
+            //    lHost.Open();
+            //    Console.WriteLine("Bank Services started. Press Q to quit.");
+            //    while (Console.ReadKey().Key != ConsoleKey.Q) ;
+            //}
+            using (SubscriberServiceHost lHost = new SubscriberServiceHost(typeof(SubscriberService), cAddress, cMexAddress, true, queue_dir))
             {
-                lHost.Open();
                 Console.WriteLine("Bank Services started. Press Q to quit.");
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
+                lHost.Dispose();
             }
         }
 

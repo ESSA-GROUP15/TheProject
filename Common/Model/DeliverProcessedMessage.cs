@@ -10,16 +10,16 @@ namespace Common.Model
     public class DeliverProcessedMessage:Message
     {
         [DataMember]
-        string orderNnmber;
+        public String orderNumber;
 
         [DataMember]
-        Guid pDeliveryId;
+        public Guid pDeliveryId;
 
         [DataMember]
-        int status;
+        public int status;
 
         [DataMember]
-        String errorMsg;
+        public String errorMsg;
 
 
     }

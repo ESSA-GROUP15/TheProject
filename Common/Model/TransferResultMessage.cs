@@ -10,9 +10,9 @@ namespace Common.Model
     public class TransferResultMessage:Message
     {
         [DataMember]
-        Boolean Success;
+        public Boolean Success;
 
         [DataMember]
-        string Message;
+        public string Message;
     }
 }
