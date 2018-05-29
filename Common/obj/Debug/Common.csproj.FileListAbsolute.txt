@@ -29,7 +29,6 @@ E:\5348group\TheProject\Common\obj\Debug\Common.dll
 E:\5348group\TheProject\Common\obj\Debug\Common.pdb
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\Common\bin\Debug\Common.dll
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\Common\bin\Debug\Common.pdb
-E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\Common\obj\Debug\Common.dll
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\Common\obj\Debug\Common.pdb

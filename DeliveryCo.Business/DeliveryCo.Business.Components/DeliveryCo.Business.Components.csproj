@@ -63,6 +63,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.csproj">
+      <Project>{c2d987a4-ad05-4c0b-b285-5b64b0132df9}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\DeliveryCo.Services\DeliveryCo.Services.Interfaces\DeliveryCo.Services.Interfaces.csproj">
       <Project>{7E7A8D7D-87CF-420F-A72B-8F4A258BB48A}</Project>
       <Name>DeliveryCo.Services.Interfaces</Name>

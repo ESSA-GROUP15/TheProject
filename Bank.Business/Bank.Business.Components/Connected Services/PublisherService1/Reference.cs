@@ -8,11 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DeliveryCo.Business.Components.PublisherService {
+namespace Bank.Business.Components.PublisherService1 {
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="PublisherService.IPublisherService")]
+    [System.ServiceModel.ServiceContractAttribute(ConfigurationName="PublisherService1.IPublisherService")]
     public interface IPublisherService {
         
         [System.ServiceModel.OperationContractAttribute(IsOneWay=true, Action="http://tempuri.org/IPublisherService/Publish")]
@@ -23,18 +23,15 @@ namespace DeliveryCo.Business.Components.PublisherService {
         [System.ServiceModel.ServiceKnownTypeAttribute(typeof(Common.Model.DeliverProcessedMessage))]
         [System.ServiceModel.ServiceKnownTypeAttribute(typeof(Common.Model.DeliverCompleteMessage))]
         void Publish(Common.Model.Message pMessage);
-        
-        [System.ServiceModel.OperationContractAttribute(IsOneWay=true, Action="http://tempuri.org/IPublisherService/Publish")]
-        System.Threading.Tasks.Task PublishAsync(Common.Model.Message pMessage);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IPublisherServiceChannel : DeliveryCo.Business.Components.PublisherService.IPublisherService, System.ServiceModel.IClientChannel {
+    public interface IPublisherServiceChannel : Bank.Business.Components.PublisherService1.IPublisherService, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class PublisherServiceClient : System.ServiceModel.ClientBase<DeliveryCo.Business.Components.PublisherService.IPublisherService>, DeliveryCo.Business.Components.PublisherService.IPublisherService {
+    public partial class PublisherServiceClient : System.ServiceModel.ClientBase<Bank.Business.Components.PublisherService1.IPublisherService>, Bank.Business.Components.PublisherService1.IPublisherService {
         
         public PublisherServiceClient() {
         }
@@ -57,10 +54,6 @@ namespace DeliveryCo.Business.Components.PublisherService {
         
         public void Publish(Common.Model.Message pMessage) {
             base.Channel.Publish(pMessage);
-        }
-        
-        public System.Threading.Tasks.Task PublishAsync(Common.Model.Message pMessage) {
-            return base.Channel.PublishAsync(pMessage);
         }
     }
 }
