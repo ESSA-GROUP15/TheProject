@@ -77,7 +77,6 @@ E:\5348group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\Deli
 E:\5348group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
 E:\5348group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.pdb
 E:\5348group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.xml
-E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\AutoMapper.Net4.dll
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe.config
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.exe
 E:\学校\硕（USYD）\2018-semester-1\COMP5348 Enterprise Scale Software Architecture\Assignment\Group\TheProject\DeliveryCo.Application\DeliveryCo.Process\bin\Debug\DeliveryCo.Process.pdb
