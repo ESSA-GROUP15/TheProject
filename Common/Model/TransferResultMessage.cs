@@ -14,5 +14,8 @@ namespace Common.Model
 
         [DataMember]
         public string Message;
+
+        [DataMember]
+        public Guid OrderNumber;
     }
 }

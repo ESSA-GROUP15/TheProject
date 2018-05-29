@@ -54,8 +54,13 @@ namespace VideoStore.Services
                 Common.Model.TransferResultMessage lMessage = pMessage as Common.Model.TransferResultMessage;
                 Boolean success = lMessage.Success;
                 String Msg = lMessage.Message;
-
+                Guid orderId = lMessage.OrderNumber;
+               
+                OrderProvider.AfterTransferResultReturns(success, orderId, Msg);
+               
             }
+
+           
         }
     }
 }

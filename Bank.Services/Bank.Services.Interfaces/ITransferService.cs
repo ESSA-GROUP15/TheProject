@@ -11,6 +11,6 @@ namespace Bank.Services.Interfaces
     {
         [OperationContract]
         [TransactionFlow(TransactionFlowOption.Allowed)]
-        void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber);
+        void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pExternalOrderId);
     }
 }

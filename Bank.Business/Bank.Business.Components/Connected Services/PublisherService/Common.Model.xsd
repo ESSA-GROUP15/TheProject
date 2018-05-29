@@ -24,6 +24,7 @@
       <xs:extension base="tns:Message">
         <xs:sequence>
           <xs:element minOccurs="0" name="pAmount" type="xs:double" />
+          <xs:element minOccurs="0" name="pExternalOrderNumber" type="ser:guid" />
           <xs:element minOccurs="0" name="pFromAcctNumber" type="xs:int" />
           <xs:element minOccurs="0" name="pToAcctNumber" type="xs:int" />
         </xs:sequence>
@@ -36,6 +37,7 @@
       <xs:extension base="tns:Message">
         <xs:sequence>
           <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OrderNumber" type="ser:guid" />
           <xs:element minOccurs="0" name="Success" type="xs:boolean" />
         </xs:sequence>
       </xs:extension>

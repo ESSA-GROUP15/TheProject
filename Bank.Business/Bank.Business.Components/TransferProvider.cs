@@ -6,6 +6,7 @@ using Bank.Business.Components.Interfaces;
 using Bank.Business.Entities;
 using System.Transactions;
 using Bank.Services.Interfaces;
+using Bank.Business.Components.PublisherService;
 
 namespace Bank.Business.Components
 {
@@ -13,7 +14,7 @@ namespace Bank.Business.Components
     {
 
 
-        public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber)
+        public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber, Guid pExternalOrderId)
         {
             using (TransactionScope lScope = new TransactionScope())
             using (BankEntityModelContainer lContainer = new BankEntityModelContainer())
@@ -31,17 +32,32 @@ namespace Bank.Business.Components
                     lContainer.ObjectStateManager.ChangeObjectState(lToAcct, System.Data.EntityState.Modified);
                     lContainer.SaveChanges();
                     lScope.Complete();
+
                     
-                    //TODO
-                    //return message
+                    Common.Model.TransferResultMessage transferResultMessage = new Common.Model.TransferResultMessage()
+                    {
+                        Topic="VideoStore",
+                        Success = true,
+                        OrderNumber=pExternalOrderId,
+                        Message="Transfer success"
+                    };
+                    PublisherServiceClient lClient = new PublisherServiceClient();
+                    lClient.Publish(transferResultMessage);
+                 
                 }
                 catch (Exception lException)
-                {
-                    //TODO 
-                    //return message
-                    Console.WriteLine("Error occured while transferring money:  " + lException.Message);
-                    throw;
-
+                {                 
+                    Common.Model.TransferResultMessage transferResultMessage = new Common.Model.TransferResultMessage()
+                    {
+                        Topic = "VideoStore",
+                        Success = false,
+                        OrderNumber = pExternalOrderId,
+                        Message = "Error occured while transferring money:  " + lException.Message
+                    };
+                    //Console.WriteLine("Error occured while transferring money:  " + lException.Message);
+                    //throw;
+                    PublisherServiceClient lClient = new PublisherServiceClient();
+                    lClient.Publish(transferResultMessage);
                 }
             }
         }
