@@ -6,7 +6,7 @@ using Bank.Business.Components.Interfaces;
 using Bank.Business.Entities;
 using System.Transactions;
 using Bank.Services.Interfaces;
-using Bank.Business.Components.PublisherService;
+using Bank.Business.Components.PublisherService1;
 
 namespace Bank.Business.Components
 {
