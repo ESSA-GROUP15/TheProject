@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VideoStore.Process.PublisherService {
+namespace VideoStore.Business.Components.PublisherService {
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -29,12 +29,12 @@ namespace VideoStore.Process.PublisherService {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IPublisherServiceChannel : VideoStore.Process.PublisherService.IPublisherService, System.ServiceModel.IClientChannel {
+    public interface IPublisherServiceChannel : VideoStore.Business.Components.PublisherService.IPublisherService, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class PublisherServiceClient : System.ServiceModel.ClientBase<VideoStore.Process.PublisherService.IPublisherService>, VideoStore.Process.PublisherService.IPublisherService {
+    public partial class PublisherServiceClient : System.ServiceModel.ClientBase<VideoStore.Business.Components.PublisherService.IPublisherService>, VideoStore.Business.Components.PublisherService.IPublisherService {
         
         public PublisherServiceClient() {
         }
