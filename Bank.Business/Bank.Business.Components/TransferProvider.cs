@@ -31,7 +31,7 @@ namespace Bank.Business.Components
                     lContainer.ObjectStateManager.ChangeObjectState(lFromAcct, System.Data.EntityState.Modified);
                     lContainer.ObjectStateManager.ChangeObjectState(lToAcct, System.Data.EntityState.Modified);
                     lContainer.SaveChanges();
-                    lScope.Complete();
+                    
 
                     
                     Common.Model.TransferResultMessage transferResultMessage = new Common.Model.TransferResultMessage()
@@ -59,6 +59,7 @@ namespace Bank.Business.Components
                     PublisherServiceClient lClient = new PublisherServiceClient();
                     lClient.Publish(transferResultMessage);
                 }
+                lScope.Complete();
             }
         }
 

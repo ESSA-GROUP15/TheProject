@@ -39,19 +39,19 @@ namespace VideoStore.Business.Components
                         pOrder.OrderNumber = Guid.NewGuid();
                         lContainer.Orders.ApplyChanges(pOrder);
                         lContainer.SaveChanges();
-                        lScope.Complete();
-
+                       
                         TransferFundsFromCustomer(UserProvider.ReadUserById(pOrder.Customer.Id).BankAccountNumber, pOrder.Total ?? 0.0,pOrder.OrderNumber);
-                        //Stop here. Wait for bank's message to continue
+                    //Stop here. Wait for bank's message to continue
+                    
 
-                                             
-                    }
+                }
                     catch (Exception lException)
                     {
                         SendOrderErrorMessage(pOrder, lException);
                         //throw;
                     }
                 }
+                lScope.Complete();
             }
             SendOrderPlacedConfirmation(pOrder);
         }
@@ -63,16 +63,20 @@ namespace VideoStore.Business.Components
                 {
                     using (VideoStoreEntityModelContainer lContainer = new VideoStoreEntityModelContainer())
                     {
-                        Entities.Order pOrder = lContainer.Orders.Include("Delivery").Include("OrderItems").Include("Customer")
+                        Entities.Order pOrder = lContainer.Orders.Include("Delivery").Include("OrderItems.Media").Include("Customer")
                             .Where((pOrder1) => pOrder1.OrderNumber == pOrderNumber).FirstOrDefault();
-
+                        foreach(Entities.OrderItem oi in pOrder.OrderItems)
+                        {
+                        Entities.Media media = oi.Media;
+                        Entities.Stock stock = lContainer.Stocks.Where((p) => p.Media.Id == media.Id).FirstOrDefault();
+                        media.Stocks = stock;
+                        }
                     if (Success)
                     {
                         pOrder.UpdateStockLevels();
                         PlaceDeliveryForOrder(pOrder);
                         lContainer.Orders.ApplyChanges(pOrder);
-                        lContainer.SaveChanges();
-                        lScope.Complete();
+                        lContainer.SaveChanges();                    
                     }
                     else
                     {
@@ -87,7 +91,7 @@ namespace VideoStore.Business.Components
                         PublisherServiceClient lClient = new PublisherServiceClient();
                         lClient.Publish(emailMessage);
                     }
-
+                    lScope.Complete();
                 }
                 }
             
