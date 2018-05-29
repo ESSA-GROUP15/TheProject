@@ -22,7 +22,7 @@ namespace Bank.Services
             if (pMessage is Common.Model.TransferMessage)
             {
                 TransferMessage lMessage = pMessage as TransferMessage;
-                TransferProvider.Transfer(lMessage.pAmount, lMessage.pFromAcctNumber, lMessage.pToAcctNumber);
+                TransferProvider.Transfer(lMessage.pAmount, lMessage.pFromAcctNumber, lMessage.pToAcctNumber, lMessage.pExternalOrderNumber);
             }
         }
     }

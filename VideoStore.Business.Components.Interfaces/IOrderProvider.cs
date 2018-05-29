@@ -9,5 +9,6 @@ namespace VideoStore.Business.Components.Interfaces
     public interface IOrderProvider
     {
         void SubmitOrder(Order pOrder);
+        void AfterTransferResultReturns(Boolean Success, Guid pOrderNumber, String pMsg);
     }
 }

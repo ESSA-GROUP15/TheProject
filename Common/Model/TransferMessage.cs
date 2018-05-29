@@ -13,6 +13,9 @@ namespace Common.Model
         public double pAmount;
 
         [DataMember]
+        public Guid pExternalOrderNumber;
+
+        [DataMember]
         public int pFromAcctNumber;
 
         [DataMember]
