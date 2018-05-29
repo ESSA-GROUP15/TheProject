@@ -129,7 +129,7 @@ namespace VideoStore.Business.Components
             Common.Model.SendEmailMessage emailMessage = new Common.Model.SendEmailMessage()
             {
                 Topic = "Email",
-                Message = "Your order " + pOrder.OrderNumber + " has been placed",
+                Message = "Delivery for order: " + pOrder.OrderNumber + " has been submitted.",
                 ToAddresses = pOrder.Customer.Email,
                 Date = new DateTime()
             };

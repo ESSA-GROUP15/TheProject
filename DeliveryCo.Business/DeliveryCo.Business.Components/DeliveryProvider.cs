@@ -29,6 +29,7 @@ namespace DeliveryCo.Business.Components
                     //lService.NotifyDeliveryProcessed(pDeliveryInfo.OrderNumber, pDeliveryInfo.DeliveryIdentifier, DeliveryInfoStatus.Submitted, "");
                     Common.Model.DeliverProcessedMessage deliverProcessedMessage = new Common.Model.DeliverProcessedMessage()
                     {
+                        Topic="VideoStore",
                         orderNumber = pDeliveryInfo.OrderNumber,
                         pDeliveryId = pDeliveryInfo.DeliveryIdentifier,
                         status = (int)DeliveryInfoStatus.Submitted,
@@ -50,6 +51,7 @@ namespace DeliveryCo.Business.Components
                     //lScope.Complete();
                     Common.Model.DeliverProcessedMessage deliverProcessedMessage = new Common.Model.DeliverProcessedMessage()
                     {
+                        Topic="VideoStore",
                         orderNumber = pDeliveryInfo.OrderNumber,
                         pDeliveryId = pDeliveryInfo.DeliveryIdentifier,
                         status = (int)DeliveryInfoStatus.Failed,
@@ -76,13 +78,12 @@ namespace DeliveryCo.Business.Components
                 //lService.NotifyDeliveryCompletion(pDeliveryInfo.DeliveryIdentifier, DeliveryInfoStatus.Delivered);
                 Common.Model.DeliverCompleteMessage deliverCompleteMessage = new Common.Model.DeliverCompleteMessage()
                 {
+                    Topic="VideoStore",
                     pDeliveryId=pDeliveryInfo.DeliveryIdentifier,
                     status=(int)DeliveryInfoStatus.Delivered
                 };
                 PublisherServiceClient lClient = new PublisherServiceClient();
                 lClient.Publish(deliverCompleteMessage);
-                lScope.Complete();
-
                 lScope.Complete();
             }
 
