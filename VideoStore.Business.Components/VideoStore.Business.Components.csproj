@@ -54,9 +54,14 @@
   <ItemGroup>
     <Compile Include="CatalogueProvider.cs" />
     <Compile Include="DeliveryNotificationProvider.cs" />
-    <Compile Include="EmailProvider.cs" />
+    <Compile Include="_Not_Used_EmailProvider.cs" />
     <Compile Include="ExternalServiceFactory.cs" />
     <Compile Include="RoleProvider.cs" />
+    <Compile Include="Service References\PublisherService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="UserProvider.cs" />
     <Compile Include="OrderProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -101,6 +106,31 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="Service References\PublisherService\Common.Model.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\PublisherService\service.wsdl" />
+    <None Include="Service References\PublisherService\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\PublisherService\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\PublisherService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\PublisherService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\PublisherService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\PublisherService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

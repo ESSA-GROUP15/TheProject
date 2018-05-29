@@ -40,15 +40,21 @@ namespace VideoStoreMessageBus
             }
             else
             {
-                AddSubscription("Email", "net.msmq://localhost/private/EmailServiceQueueTransacted");// Email's subscription
-                AddSubscription("Bank", "net.msmq://localhost/private/BankTransferQueueTransacted");//Bank's subscription
-                AddSubscription("DeliveryCo", "net.msmq://localhost/private/DeliveryQueueTransacted");//DeliveryCo
-                AddSubscription("VideoStore.TransferResult","");//VideoStore
-                AddSubscription("VideoStore.DeliveryProcessed", "");
-                AddSubscription("VideoStore.DeliveryCompleted", "");
+                AddDummieRegistry();
             }
 
         }
+
+
+        public void AddDummieRegistry()
+        {
+            AddSubscription("Email", "net.msmq://localhost/private/EmailServiceQueueTransacted");// Email's subscription
+            AddSubscription("Bank", "net.msmq://localhost/private/BankTransferQueueTransacted");//Bank's subscription
+            AddSubscription("DeliveryCo", "net.msmq://localhost/private/DeliveryQueueTransacted");//DeliveryCo
+            AddSubscription("VideoStore", "net.msmq://localhost/private/VideoStoreServiceQueueTransacted");//VideoStore
+            
+        }
+
 
         public void AddSubscription(String pTopic, String pHandlerAddress)
         {
@@ -87,7 +93,6 @@ namespace VideoStoreMessageBus
         {
             using (Stream stream = new FileStream(cRegistryFile, FileMode.Create, FileAccess.Write, FileShare.Write))
             {
-
                 System.Runtime.Serialization.IFormatter formatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
                 formatter.Serialize(stream, sTopicSubscriptions);
             }

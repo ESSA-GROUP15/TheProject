@@ -15,6 +15,10 @@ namespace VideoStoreMessageBus
         static void Main(string[] args)
         {
             EnsureMessageQueuesExists();
+
+            //Manually added registry....
+            SubscriptionRegistry subscription = new SubscriptionRegistry();
+
             using (ServiceHost lPubHost = new ServiceHost(typeof(PublisherService)))
             using (ServiceHost lSubHost = new ServiceHost(typeof(SubscriptionService)))
             {

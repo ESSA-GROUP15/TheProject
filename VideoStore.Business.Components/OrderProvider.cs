@@ -14,10 +14,10 @@ namespace VideoStore.Business.Components
 {
     public class OrderProvider : IOrderProvider
     {
-        public IEmailProvider EmailProvider
-        {
-            get { return ServiceLocator.Current.GetInstance<IEmailProvider>(); }
-        }
+        //public IEmailProvider EmailProvider
+        //{
+        //    get { return ServiceLocator.Current.GetInstance<IEmailProvider>(); }
+        //}
 
         public IUserProvider UserProvider
         {
